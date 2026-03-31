@@ -8,14 +8,19 @@
 * 🎯
 * ⚡
 
-<div id="header" align="center">
+<div align="center">
   <!-- Obi-Wan Kenobi GIF -->
-  <img src="https://media.giphy.com/media/l0MYK4VJtG1vK1Z68/giphy.gif" width="150" alt="Obi-Wan Kenobi"/>
+  <img src="https://media.giphy.com/media/l0MYK4VJtG1vK1Z68/giphy.gif" alt="Obi-Wan Kenobi" width="200"/>
 
-  <!-- Badges -->
-  <div id="badges">
+  <!-- Typing animasyonu (opsiyonel) -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&size=25&center=true&vCenter=true&width=500&lines=Ben+Kalandarga;Yazılım+Geliştiriyorum;Obi-Wan+Kenobi+Tarzı" />
+  </p>
+
+  <!-- Sosyal badge’ler -->
+  <p>
     <a href="https://linkedin.com/in/Kalandarga">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://medium.com/@Kalandarga">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
@@ -26,9 +31,8 @@
     <a href="https://twitter.com/Kalandarga">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
-  </div>
+  </p>
 </div>
-
 ---
 
 ## 🛠️ Teknolojiler
