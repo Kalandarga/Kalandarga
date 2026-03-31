@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Kalandarga
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&size=25&center=true&vCenter=true&width=500&lines=Yazılım+Geliştirici;Sürekli+Öğreniyorum;Kod+Yazmayı+Seviyorum" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&size=25&center=true&vCenter=true&width=500&lines=Yazılım+Geliştirici;Sürekli+Öğreniyorum;Kod+Yazmayı+Seviyorum" />
 </p>
 
 ---
@@ -26,8 +26,8 @@
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalandarga&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalandarga&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalandarga&show_icons=true&theme=tokyonight&title_color=ff0000&icon_color=007bff&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalandarga&layout=compact&theme=tokyonight&title_color=ff0000" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ## 🔥 GitHub Serisi (Streak)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kalandarga&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Kalandarga&theme=tokyonight&ring=ff0000&fire=ff0000&currStreakLabel=007bff" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 👀 Ziyaretçi Sayısı
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kalandarga" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kalandarga&color=blue&label=Ziyaretçi" />
 </p>
 
 ---
@@ -51,8 +51,8 @@
 ## 🔗 Bana Ulaş
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
 
 ---
