@@ -34,26 +34,12 @@
   <img src="https://streak-stats.demolab.com/?user=Kalandarga&theme=tokyonight&ring=ff0000&fire=ff0000&currStreakLabel=007bff" />
 </p>
 
----
-
-## 👀 Ziyaretçi Sayısı
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kalandarga&color=blue&label=Ziyaretçi" height="40"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Live-ff0000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
 
 ---
 
 ## 🔗 Bana Ulaş
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-007BFF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=firefox&logoColor=white"></a>
-</p>
+
 
 ---
 
