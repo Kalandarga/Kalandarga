@@ -11,10 +11,12 @@
 ---
 
 ## 📊 GitHub İstatistiklerim
+## 📊 GitHub İstatistiklerim
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kalandarga&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalandarga&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalandarga&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalandarga&layout=compact&theme=radical" />
+</p>
 
 ---
 
