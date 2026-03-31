@@ -7,7 +7,6 @@
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kalandarga)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;Always+Learning+New+Things)
 
 ---
 
