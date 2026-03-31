@@ -4,10 +4,10 @@
 ---
 
 ## 🚀 Hakkımda
-- 💻 Yazılım geliştiricisiyim  
-- 🔥 Şu anda: Kendimi geliştiriyorum  
-- 🎯 Hedefim: Profesyonel bir developer olmak  
-- ⚡ İlgi alanım: Web geliştirme  
+- 💻
+- 🔥 
+- 🎯  
+- ⚡ 
 
 ---
 
