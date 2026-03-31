@@ -27,7 +27,6 @@
   <!-- Kullanılan diller -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalandarga&layout=compact&theme=tokyonight&title_color=ff0000" />
 </p>
----
 
 ## 🔥 GitHub Serisi (Streak)
 
