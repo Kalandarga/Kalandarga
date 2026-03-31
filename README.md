@@ -1,17 +1,12 @@
 # 👋 Merhaba, ben Kalandarga
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&size=25&center=true&vCenter=true&width=500&lines=Yazılım+Geliştirici;Sürekli+Öğreniyorum;Kod+Yazmayı+Seviyorum" />
-</p>
-
----
 
 ## 🚀 Hakkımda
 
-* 💻 Yazılım geliştiricisiyim
-* 🔥 Şu anda: Kendimi geliştiriyorum
-* 🎯 Hedefim: Profesyonel bir developer olmak
-* ⚡ İlgi alanım: Web geliştirme
+* 💻
+* 🔥
+* 🎯
+* ⚡
 
 ---
 
