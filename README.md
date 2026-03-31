@@ -38,7 +38,11 @@
 ## 👀 Ziyaretçi Sayısı
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ziyaretçi-1000%2B-blue?style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kalandarga&color=blue&label=Ziyaretçi" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-Live-ff0000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
